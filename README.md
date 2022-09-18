@@ -1,2 +1,2 @@
-# devertest
-A new repository test
+#Display the output
+print("New Python File")
